@@ -1,0 +1,13 @@
+html{height: 100% !important;}
+body{height: 100% !important;}
+div#root{height: 100% !important;}
+nav.navbar{height: 12% !important;}
+div.main{padding-bottom: 14% !important;}
+.form-outline {
+    position: relative;
+    width:auto !important;
+}
+
+.add{
+    padding-top: 20px;
+}
